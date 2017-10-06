@@ -1,0 +1,17 @@
+h1{
+text-align: center;
+}
+
+p.answer{
+  display:none;
+}
+p{
+	font-size: 150%;
+	color:rgb(146,31,90);
+}
+
+.paragraph{
+	display: none;
+	font-size: 100%;
+	color: rgb(150,60,100);
+}
